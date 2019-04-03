@@ -1,0 +1,17 @@
+{
+    "name": "khalid/composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "khalidor",
+            "email": "elghadir.khalid@gmail.com"
+        }
+    ],"require": {
+        "ehime/hello-world": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    } 
+
+    
+}
